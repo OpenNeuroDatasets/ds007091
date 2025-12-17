@@ -1,0 +1,13 @@
+*.html
+logs/
+figures/
+*_xfm.*
+*.surf.gii
+*_boldref.nii.gz
+*_bold.func.gii
+*_mixing.tsv
+*_timeseries.tsv
+log/
+logs
+log
+figures
