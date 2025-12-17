@@ -45,7 +45,7 @@
             "Version": "1.0.1.dev0+gee9aa2e.d20250115"
         }
     ],
-    "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
+    "HowToAcknowledge": "Please cite our preprint: https://doi.org/10.1101/2025.11.10.687633\n\nPlease cite the QSIPrep paper (https://www.nature.com/articles/s41592-021-01185-5#citeas), and include the generated citation boilerplate within the Methods section of the text.",
     "License": "CC0",
     "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development, QSIRecon Derivatives",
     "PipelineDescription": {
