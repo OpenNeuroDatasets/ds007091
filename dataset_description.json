@@ -55,5 +55,6 @@
     },
     "SourceDatasetsURLs": [
         "https://doi.org/TODO: eventually a DOI for the dataset"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007091.v1.0.0"
 }
