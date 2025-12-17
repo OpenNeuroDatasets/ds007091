@@ -192,6 +192,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 27
+      - name: Elizabeth Flook
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-0192-0496
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 28
     creators:
       - name: Brooke L. Sevchik
         nameType: Personal
@@ -247,6 +257,9 @@ data:
         nameType: Personal
       - name: Theodore D. Satterthwaite
         nameType: Personal
+      - name: Elizabeth Flook
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
