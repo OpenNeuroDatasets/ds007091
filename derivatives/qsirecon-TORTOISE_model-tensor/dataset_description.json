@@ -2,13 +2,13 @@
     "BIDSVersion": "1.1.1",
     "CodeURL": "https://github.com/pennlinc/qsiprep",
     "DatasetLinks": {
-        "preprocessed": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/inputs/data/qsiprep/qsiprep",
-        "qsirecon": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon",
-        "qsirecon-DIPYDKI": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-DIPYDKI",
-        "qsirecon-DSIStudio": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-DSIStudio",
-        "qsirecon-NODDI": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-NODDI",
-        "qsirecon-TORTOISE_model-MAPMRI": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-TORTOISE_model-MAPMRI",
-        "qsirecon-gmNODDI": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-gmNODDI",
+        "preprocessed": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/inputs/data/qsiprep/qsiprep",
+        "qsirecon": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon",
+        "qsirecon-DIPYDKI": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-DIPYDKI",
+        "qsirecon-DSIStudio": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-DSIStudio",
+        "qsirecon-NODDI": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-NODDI",
+        "qsirecon-TORTOISE_model-MAPMRI": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-TORTOISE_model-MAPMRI",
+        "qsirecon-gmNODDI": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/outputs/qsirecon/derivatives/qsirecon-gmNODDI",
         "templateflow": "https://github.com/templateflow/templateflow"
     },
     "DatasetType": "derivative",
@@ -25,7 +25,7 @@
         }
     ],
     "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
-    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "License": "CC BY-NC-SA",
     "Name": "QSIRecon output",
     "PipelineDescription": {
         "CodeURL": "https://github.com/PennLINC/qsiprep/archive/1.0.1.dev0+gee9aa2e.d20250115.tar.gz",

@@ -1,35 +1,8 @@
 {
-    "Authors": [
-        "Brooke L. Sevchik",
-        "Golia Shafiei",
-        "Kristin Murtha",
-        "Juliette B.H. Brook",
-        "Lia Brodrick",
-        "Kahini Mehta",
-        "Sage Rush",
-        "Matt Cieslak",
-        "Steven L. Meisler",
-        "Taylor Salo",
-        "S. Parker Singleton",
-        "Tien T. Tong",
-        "Mrugank Salunke",
-        "Dani S. Bassett",
-        "Monica E. Calkins",
-        "Mark A. Elliott",
-        "Raquel E. Gur",
-        "Ruben C. Gur",
-        "Tyler M. Moore",
-        "Kosha Ruparel",
-        "Russell T. Shinohara",
-        "M. Dylan Tisdal",
-        "Daniel H. Wolf",
-        "David R. Roalf",
-        "Theodore D. Satterthwaite"
-    ],
     "BIDSVersion": "1.1.1",
     "CodeURL": "https://github.com/pennlinc/qsiprep",
     "DatasetLinks": {
-        "preprocessed": "/scratch/executivefunction/SLURM_8364170_217/job-8364170-217-sub-23698-ses-1/ds/inputs/data/qsiprep/qsiprep",
+        "preprocessed": "/scratch/executivefunction/SLURM_13244013_217/job-13244013-217-sub-23698-ses-1/ds/inputs/data/qsiprep/qsiprep",
         "templateflow": "https://github.com/templateflow/templateflow"
     },
     "DatasetType": "derivative",
@@ -45,9 +18,9 @@
             "Version": "1.0.1.dev0+gee9aa2e.d20250115"
         }
     ],
-    "HowToAcknowledge": "Please cite our preprint: https://doi.org/10.1101/2025.11.10.687633\n\nPlease cite the QSIPrep paper (https://www.nature.com/articles/s41592-021-01185-5#citeas), and include the generated citation boilerplate within the Methods section of the text.",
-    "License": "CC0",
-    "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development, QSIRecon Derivatives",
+    "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
+    "License": "CC BY-NC-SA",
+    "Name": "QSIRecon output",
     "PipelineDescription": {
         "CodeURL": "https://github.com/PennLINC/qsiprep/archive/1.0.1.dev0+gee9aa2e.d20250115.tar.gz",
         "Name": "qsiprep",
@@ -55,6 +28,5 @@
     },
     "SourceDatasetsURLs": [
         "https://doi.org/TODO: eventually a DOI for the dataset"
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007091.v1.0.1"
+    ]
 }
